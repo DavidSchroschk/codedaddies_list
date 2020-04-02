@@ -1,1 +1,1 @@
-#This is a cragslist clone called... Codedaddies List
+#This is a cragslist scraper called... Codedaddies List
